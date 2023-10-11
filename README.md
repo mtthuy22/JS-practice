@@ -1,7 +1,8 @@
 # JS-practice
-Repository solely for practicing JS exercises 
+Repository solely for practicing JS exercises
 
-WIP
+WIP (to be added in the future):
+- JS challenges
+- DOM
 - algorithm
-- games
-- challenges
+- some styling 
