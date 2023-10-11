@@ -1,2 +1,4 @@
 # JS-practice
-Repository solely for practicing JS
+Repository solely for practicing JS exercises 
+
+WIP
